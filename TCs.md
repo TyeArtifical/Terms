@@ -1,6 +1,6 @@
 # Tye AI – Bot Terms & Conditions
 
-**Last Updated:**: 05/04/2026 (DD/MM/YYYY)
+**Last Updated:**: 05/04/2026
 
 Welcome to **Tye**, the AI bot by **Tye AI**! By using Tye, you agree to follow these rules. If you don’t agree, please don’t use the bot.
 
