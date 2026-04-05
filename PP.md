@@ -1,10 +1,6 @@
-Got it! Here’s a **full, Discord-friendly Privacy Policy for Tye AI**, making it very clear that everything is logged and that Railway sees the data because of hosting:
-
----
-
 # Tye AI – Privacy Policy
 
-**Last Updated:** [Insert Date]
+**Last Updated:** 05/04/2026
 
 This Privacy Policy explains how **Tye**, the AI bot by **Tye AI**, collects, stores, and shares your information. By using Tye, you agree to this policy.
 
